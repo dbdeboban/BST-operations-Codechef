@@ -44,25 +44,25 @@ On inserting 1,
 
 On inserting 2:
 
-"""1
+   1
     \
-     2"""
+     2
 
 On inserting 0:
 
-"""1
+   1
   / \
  0   2
-"""
+
 After deleting 2:
 
-"""1
+  1
  /
 0
-"""
+
 On inserting 3:
 
-"""1
+   1
   / \
  0   3
-"""
+
